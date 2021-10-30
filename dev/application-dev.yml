@@ -1,2 +1,5 @@
 config:
   name: dev
+
+info:
+  description: Spring Cloud Dev
